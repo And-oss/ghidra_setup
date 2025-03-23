@@ -1,0 +1,24 @@
+# temp files
+tmp/
+
+# editor config files
+.idea/
+.vscode/
+.settings/
+
+# build directories
+bin/
+build/
+dist/
+
+# gradle files
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+
+# Java class files
+*.class
+
+# misc
+.DS_Store
